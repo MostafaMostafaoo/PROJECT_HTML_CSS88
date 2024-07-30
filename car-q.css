@@ -1,0 +1,299 @@
+body{
+    margin: 0;
+}
+
+*{
+
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-1 {
+    margin: 20px 0;
+}
+
+.main-1 a{
+    font-size: 20;
+    text-decoration: none;
+   
+    font-weight: bolder;
+}
+   
+
+.main-1 a:hover{
+    color: rgb(104, 107, 109);
+}
+
+
+.main-2{
+    display: flex;
+    align-items: center;
+    
+}
+
+.div-1{
+   margin-right: 20px;
+}
+.div-1 a{
+   text-decoration: none;
+   margin-right: 5px;
+}
+.div-1 a:hover{
+    color: aliceblue;
+}
+
+
+.div-2{
+   margin-right: 20px;
+}
+.div-2 a{
+   text-decoration: none;
+   margin-right: 5px;
+}
+.div-2 a:hover{
+    color: aliceblue;
+}
+.div-3{
+   margin-right: 20px;
+}
+.div-3 a{
+   text-decoration: none;
+   margin-right: 5px;
+}
+.div-3 a:hover{
+    color: aliceblue;
+}
+
+
+section{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+     height: 140px; 
+     
+
+    
+     
+     
+   
+}
+
+
+.main-3 a{
+    display: block;
+    margin: 30px 150px;
+    font-size: 60px;
+    text-decoration: none;
+    font-weight: bolder;
+    background-color:black;
+    color: white;
+    padding: 30px;
+}
+
+.main-4{
+    display: flex;
+    /* margin: 70px ; */
+    padding: 70px ;
+  
+    
+}
+
+.div-4 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-4 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-5 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-5 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-6 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-6 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-7 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-7 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+.div-8 a{
+
+font-size: 20px;  
+text-decoration: none;
+margin: 0 15px;
+background-color: black;
+color: white;
+padding: 7px;
+border-radius: 5px;
+}
+.div-8 a:hover{
+    color: rgb(96, 98, 99);
+
+}
+
+
+main{
+    background-color: gainsboro;
+    height: 1000px;
+    margin-top: -2px;
+    padding: 60px 200px;
+    
+}
+
+.car-w h2{
+    font-size: 30px;
+    font-weight: 200;
+    /* margin: 50px 0; */
+
+}
+
+.car-w span{
+    font-size: 20px;
+    font-weight: 200;
+    margin: 30px 0;
+    display: flex;
+}
+
+.car-w  p {
+    line-height: 25px;
+    font-weight: 100;
+    margin: 40px 0;
+
+}
+.car-e h2{
+    font-size: 30px;
+    font-weight: 200;
+    /* margin: 50px 0; */
+
+}
+
+
+
+.car-e p {
+    line-height: 25px;
+    font-weight: 100;
+    margin: 40px 0;
+
+}
+.car-r h2{
+    font-size: 30px;
+    font-weight: 200;
+    /* margin: 50px 0; */
+
+}
+
+
+
+.car-t p {
+    line-height: 25px;
+    font-weight: 100;
+    margin: 30px 0;
+
+}
+.car-t h2{
+    font-size: 30px;
+    font-weight: 200;
+    /* margin: 50px 0; */
+
+}
+
+
+.car-t span{
+    font-size: 15px;
+}
+
+.car-t h1{
+    font-size: 15px;
+    font-weight: 200;
+}
+
+
+.car-t p {
+    line-height: 25px;
+    font-weight: 100;
+    margin: 10px 0;
+
+}
+
+
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(132, 6, 249);
+     height: 100px;
+}
+
+.car{
+    color: wheat;
+    padding: 0 400px;
+    margin: 30px 0;
+}
+
+
+.car-2{
+   padding: 20px 20px 40px;
+   margin-right: 70px;
+   background-color: rgba(75, 75, 112, 0.742);
+   height: 50px;
+   padding: 10px 10px;
+   margin: 30px 0;
+}
+
+.car-2 a{
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.car-2 a:hover{
+    color: blueviolet;
+}
+
+.car-q{
+    background-color: gainsboro;
+    height: 50px;
+}
